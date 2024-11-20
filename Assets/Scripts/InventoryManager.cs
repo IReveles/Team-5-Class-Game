@@ -11,7 +11,19 @@ public class InventoryManager : MonoBehaviour
     public GameObject InventoryItem;
 
     private void Awake(){
+        if (Instance == null)
+    {
         Instance = this;
+    }
+    else
+    {
+        Destroy(gameObject);
+    }
+    }
+
+    public bool HasItem(Item item)
+    {
+        return Items.Contains(item);
     }
 
     public void Add(Item item){
