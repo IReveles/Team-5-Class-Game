@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23a38a06a7d3cf045a969322a49633ce, type: 3}
+  m_Name: Jump Potion
+  m_EditorClassIdentifier: 
+  requiredItems:
+  - {fileID: 11400000, guid: 859a0e20ff5becb49b3c3ce87ddd7dad, type: 2}
+  - {fileID: 11400000, guid: 088dac4c68c31eb4182641c4a98af234, type: 2}
+  result: {fileID: 11400000, guid: 60b0477b8638f0b48b94152b8d0ec038, type: 2}
