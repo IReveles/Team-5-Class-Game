@@ -69,6 +69,7 @@
     <Compile Include="Assets\Scripts\InventoryManager.cs" />
     <Compile Include="Assets\Scripts\ItemPickup.cs" />
     <Compile Include="Assets\Scripts\ItemController.cs" />
+    <Compile Include="Assets\Scripts\InventoryItemController.cs" />
     <Compile Include="Assets\Scripts\BrewingSystem.cs" />
     <Compile Include="Assets\Scripts\Item.cs" />
     <Compile Include="Assets\Scripts\Recipe.cs" />

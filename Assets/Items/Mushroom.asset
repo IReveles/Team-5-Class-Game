@@ -16,3 +16,4 @@ MonoBehaviour:
   itemName: Mushroom
   value: 10
   icon: {fileID: 21300000, guid: 56a5df951d0f9e0489fc02c894909d22, type: 3}
+  itemType: 1
