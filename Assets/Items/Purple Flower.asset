@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5a32ce9dda207d04592c7159ce1875cb, type: 3}
-  m_Name: Crystal
+  m_Name: Purple Flower
   m_EditorClassIdentifier: 
-  id: 1
-  itemName: Crystal
+  id: 5
+  itemName: Purple Flower
   value: 10
-  icon: {fileID: 21300000, guid: 661d53b07ee86ce47a6201c2cbbdaa96, type: 3}
+  icon: {fileID: 21300000, guid: 934af3856fc0e3f4294e1ad7d5c6a48e, type: 3}
   itemType: 1

@@ -341,6 +341,7 @@ GameObject:
   - component: {fileID: 3648662005231765664}
   - component: {fileID: 4119452283899216514}
   - component: {fileID: 7300106987630423137}
+  - component: {fileID: 7192211448731699275}
   m_Layer: 5
   m_Name: Item
   m_TagString: Untagged
@@ -451,4 +452,28 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 4119452283899216514}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 7192211448731699275}
+        m_TargetAssemblyTypeName: InventoryItemController, Assembly-CSharp
+        m_MethodName: UseItem
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &7192211448731699275
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7563094418210667173}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96f61fc4530629146953bb95e067a72a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
