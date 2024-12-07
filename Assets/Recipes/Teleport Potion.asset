@@ -12,5 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23a38a06a7d3cf045a969322a49633ce, type: 3}
   m_Name: Teleport Potion
   m_EditorClassIdentifier: 
-  requiredItems: []
-  result: {fileID: 0}
+  requiredItems:
+  - {fileID: 11400000, guid: d45c4d0a1bee2cc4497cbf41cc61054f, type: 2}
+  - {fileID: 11400000, guid: 6356f10137afe334096ca36f5966f8ed, type: 2}
+  - {fileID: 11400000, guid: 66a650d56cc934240bf18c20b16da262, type: 2}
+  - {fileID: 11400000, guid: 1f55b0bb2b74a414b91c62bfc9b69ff4, type: 2}
+  result: {fileID: 11400000, guid: bd941cb83a24a6748bab6b51d6d015db, type: 2}

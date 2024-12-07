@@ -15,5 +15,5 @@ MonoBehaviour:
   id: 10
   itemName: Blue Flower
   value: 10
-  icon: {fileID: 0}
+  icon: {fileID: 21300000, guid: 3cd39cf05e882ec43956bd308bf31511, type: 3}
   itemType: 1

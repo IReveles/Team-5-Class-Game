@@ -82,7 +82,7 @@ public class InventoryItemController : MonoBehaviour
 
         // Store the original jump height and apply the boost
         originalJumpHeight = playerMovement.jumpPower;
-        playerMovement.jumpPower *= 3f;
+        playerMovement.jumpPower *= 2f;
         Debug.Log($"Jump height increased to {playerMovement.jumpPower}");
 
         await Task.Delay(30000);

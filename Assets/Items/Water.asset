@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5a32ce9dda207d04592c7159ce1875cb, type: 3}
   m_Name: Water
   m_EditorClassIdentifier: 
-  id: 0
-  itemName: 
-  value: 0
-  icon: {fileID: 0}
-  itemType: 0
+  id: 8
+  itemName: Water
+  value: 10
+  icon: {fileID: 21300000, guid: 871256c9551c6ad4aa475f7b1a86b181, type: 3}
+  itemType: 1

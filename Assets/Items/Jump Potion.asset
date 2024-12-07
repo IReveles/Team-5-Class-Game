@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: Jump Potion
   m_EditorClassIdentifier: 
   id: 4
-  itemName: Jump Potion
+  itemName: Jump
   value: 10
   icon: {fileID: 21300000, guid: a20c77f58c326954e8ee140c4dddbaf0, type: 3}
+  itemType: 0

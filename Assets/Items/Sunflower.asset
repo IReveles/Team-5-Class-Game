@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5a32ce9dda207d04592c7159ce1875cb, type: 3}
   m_Name: Sunflower
   m_EditorClassIdentifier: 
-  id: 0
-  itemName: 
-  value: 0
-  icon: {fileID: 0}
-  itemType: 0
+  id: 9
+  itemName: Sunflower
+  value: 10
+  icon: {fileID: 21300000, guid: fe550ecb20fd71642a10afe23374227f, type: 3}
+  itemType: 1

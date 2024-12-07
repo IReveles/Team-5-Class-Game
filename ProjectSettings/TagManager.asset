@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - PotionWall
+  - TeleportPoint
   layers:
   - Default
   - TransparentFX
